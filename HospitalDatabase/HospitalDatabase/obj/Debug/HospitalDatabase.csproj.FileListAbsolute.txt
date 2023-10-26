@@ -1,0 +1,11 @@
+C:\Users\frapl\source\repos\HospitalDatabase\HospitalDatabase\bin\Debug\HospitalDatabase.exe.config
+C:\Users\frapl\source\repos\HospitalDatabase\HospitalDatabase\bin\Debug\HospitalDatabase.exe
+C:\Users\frapl\source\repos\HospitalDatabase\HospitalDatabase\bin\Debug\HospitalDatabase.pdb
+C:\Users\frapl\source\repos\HospitalDatabase\HospitalDatabase\obj\Debug\HospitalDatabase.csproj.AssemblyReference.cache
+C:\Users\frapl\source\repos\HospitalDatabase\HospitalDatabase\obj\Debug\HospitalDatabase.Form1.resources
+C:\Users\frapl\source\repos\HospitalDatabase\HospitalDatabase\obj\Debug\HospitalDatabase.Properties.Resources.resources
+C:\Users\frapl\source\repos\HospitalDatabase\HospitalDatabase\obj\Debug\HospitalDatabase.csproj.GenerateResource.cache
+C:\Users\frapl\source\repos\HospitalDatabase\HospitalDatabase\obj\Debug\HospitalDatabase.csproj.CoreCompileInputs.cache
+C:\Users\frapl\source\repos\HospitalDatabase\HospitalDatabase\obj\Debug\HospitalDatabase.exe
+C:\Users\frapl\source\repos\HospitalDatabase\HospitalDatabase\obj\Debug\HospitalDatabase.pdb
+C:\Users\frapl\source\repos\HospitalDatabase\HospitalDatabase\obj\Debug\HospitalDatabase.form2.resources
